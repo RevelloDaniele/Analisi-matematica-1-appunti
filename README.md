@@ -38,3 +38,9 @@ ARGOMENTI TRATTATI
 -31: EDO lineari a coefficienti costanti del II ordine (+ problema di Cauchy)
 -32: Esempi di risoluzione EDO del II ordine, principio di sovrapposizione
 -33: Dimostrazioni dei principali teoremi dell'analisi I 
+
+DONAZIONI VOLONTARIE:
+Se pensate che il materiale vi sia stato d'aiuto e avete intenzione di supportarmi, vi lascio a fianco il link per una donazione volontaria su satispay:
+https://web.satispay.com/download/qrcode/S6Y-SVN--32F1B588-9141-44E8-86A7-55C29911EBED?locale=it
+
+Grazie a chiunque mi sosterrà <3
