@@ -9,6 +9,7 @@ ARGOMENTI TRATTATI
 -2: Insiemi numerici
 -3: Operatore 1: Modulo
 -4: Funzioni
+-4 Bis: Simmetrie di funzioni elementari
 -5: Successioni e limiti di successioni
 -6: Algebra dei limiti e limiti di funzioni
 -7: Teoremi: limiti
